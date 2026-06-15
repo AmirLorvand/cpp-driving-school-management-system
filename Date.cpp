@@ -1,6 +1,6 @@
 /*
     Date.cpp
-    Author: RanaSystems
+    Author: Amir Lorvand
     Created: 12 Mar 2024
     Updated: 12 Mar 2024
 */
