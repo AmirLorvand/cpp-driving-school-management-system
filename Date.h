@@ -1,6 +1,6 @@
 /*
     Date.h
-    Author: RanaSystems
+    Author: Amir Lorvand
     Created: 10 Mar 2024
     Updated: 10 Mar 2024
 */
